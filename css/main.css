@@ -83,7 +83,6 @@ body * {
   
     -webkit-transform: rotateY(180deg) translateZ(40vh);
   }
-  
   .right {
     background: rgba(196, 0, 0, 0.7);
     -webkit-transform: rotateY(90deg) translateZ(30vw);
